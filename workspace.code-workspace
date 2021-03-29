@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Meu currículo"
+		},
+		{
+			"path": "..\\Codaí"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Meu currículo"
+	}
+}
